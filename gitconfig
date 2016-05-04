@@ -1,0 +1,10 @@
+[user]
+    email = benjaminfvandersteen@gmail.com
+    name = benvand
+[credential]
+    helper = cache --timeout 28800
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    f = fetch
